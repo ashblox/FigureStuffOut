@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">An App For Leon</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">An App For Leon</string>
+    <string name="nav_header_subtitle">What would you like to do?</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="you_creep">Ew, you\'re a creep...</string>
+    <string name="listen_to_toto">No, seriously. Why don\'t you listen to some Toto instead?</string>
+</resources>
