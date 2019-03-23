@@ -21,5 +21,12 @@
             android:icon="@drawable/ic_menu_stalk"
             android:title="Watch Leon" />
     </group>
+    <group android:id="@+id/nav_footer">
+        <item
+            android:id="@+id/nav_logoff"
+            android:icon="@drawable/ic_menu_logoff"
+            android:title="Logoff" />
+
+</group>
 
 </menu>
