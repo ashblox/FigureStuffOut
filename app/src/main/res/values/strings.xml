@@ -12,4 +12,5 @@
     <string name="listen_to_toto">No, seriously. Why don\'t you listen to some Toto instead?</string>
     <string name="welcome">If you\'re a fan of Leon, this app is for you. See the sidebar to begin.</string>
     <string name="coming_soon">Unfortunately, this application has not yet been added to the play store. Please check back soon!</string>
+    <string name="title_activity_maps2">Map</string>
 </resources>
